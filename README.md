@@ -1,8 +1,8 @@
 <!-- Modern GitHub Profile README Template -->
 
 <h1 align="center">Hi 👋, I'm Dinod Deshanjana</h1>
-<h3>Welcome to my GitHub profile! 🚀  
-I'm passionate about **technology, coding, and building innovative projects**.  </h3>
+<h3 align="center">Welcome to my GitHub profile! 🚀  
+I'm passionate about technology, coding, and building innovative projects.  </h3>
 <h3 align="center">🚀 Tech Enthusiast | 💻 Developer | 🎓 MIT Undergraduate</h3>
 
 ---
