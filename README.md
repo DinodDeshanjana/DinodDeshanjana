@@ -16,7 +16,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ---
 
-## 🔧 Tech Stack  
+ 🔧 Tech Stack  
 **Languages & Tools:**  
 
 - HTML | CSS | JavaScript  
