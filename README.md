@@ -7,16 +7,15 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ---
 
-👨‍💻 About Me
-- 🌱 I’m currently learning **Web Development & System Design**
-- 💼 Working on: **Tuk-Tuk Booking System 🚖**
-- 🐶 Fun fact: My dog **Windy** is my coding partner 🐾
-- 🎯 Goal: To build impactful projects that solve real-world problems
-- ⚡ Motto: *“Keep learning, keep building”*
+### 👨‍💻 About Me
+- 🎓 BSc. in Management Information Technology (MIT) student  
+- 💻 Love working with **PHP, MySQL, HTML, CSS, JavaScript**  
+- 🚕 Currently building a **Tuk-Tuk Booking System**  
+- 📖 Always learning and experimenting with **new programming languages**  
 
 ---
 
- 🔧 Tech Stack  
+ ## 🔧 Tech Stack  
 **Languages & Tools:**  
 
 - HTML | CSS | JavaScript  
@@ -29,6 +28,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ## 📌 Featured Projects  
 - 🚖 [Tuk-Tuk Booking System](https://github.com/DinodDeshanjana/Three-Wheeler-Rental-System-project.git) – Online system for vehicle reservations
+- 🍕 [Pizza-Checkout-Application](https://github.com/DinodDeshanjana/Pizza-Checkout-Application.git) - Pizza Checkout Application
 
 ---
 
@@ -41,7 +41,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 ---
 
 ## 📫 Connect with Me  
-- 🌐 Portfolio: [yourwebsite.com](#)  
+
 - 💼 LinkedIn: https://www.linkedin.com/in/dinod-deshanjana  
 - 📧 Email: your@email.com  
 
