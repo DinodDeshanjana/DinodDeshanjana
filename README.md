@@ -7,7 +7,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 - 🌱 I’m currently learning **Web Development & System Design**
 - 💼 Working on: **Tuk-Tuk Booking System 🚖**
 - 🐶 Fun fact: My dog **Windy** is my coding partner 🐾
