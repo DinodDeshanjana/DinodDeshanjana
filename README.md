@@ -39,7 +39,7 @@ I'm passionate about **technology, coding, and building innovative projects**.
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [yourwebsite.com](#)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/dinod-deshanjana]  
+- 💼 LinkedIn: https://www.linkedin.com/in/dinod-deshanjana  
 - 📧 Email: your@email.com  
 
 ---
