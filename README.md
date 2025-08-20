@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dinod Deshanjana
 
 Welcome to my GitHub profile! 🚀  
 I'm passionate about **technology, coding, and building innovative projects**.  
@@ -9,7 +9,6 @@ I'm passionate about **technology, coding, and building innovative projects**.
 - 🎓 BSc. in Management Information Technology (MIT) student  
 - 💻 Love working with **PHP, MySQL, HTML, CSS, JavaScript**  
 - 🚕 Currently building a **Tuk-Tuk Booking System**  
-- 🐶 Dog lover 🐾 (my dog Windy is my coding buddy)  
 - 📖 Always learning and experimenting with **new programming languages**  
 
 ---
@@ -26,9 +25,7 @@ I'm passionate about **technology, coding, and building innovative projects**.
 ---
 
 ## 📌 Featured Projects  
-- 🚖 [Tuk-Tuk Booking System](#) – Online system for vehicle reservations  
-- 🏢 [Employee Management System](#) – Manage employees efficiently  
-- 📚 [System Analysis & Design Assignments](#) – Academic projects  
+- 🚖 [Tuk-Tuk Booking System](https://github.com/DinodDeshanjana/Three-Wheeler-Rental-System-project.git) – Online system for vehicle reservations
 
 ---
 
@@ -42,7 +39,7 @@ I'm passionate about **technology, coding, and building innovative projects**.
 
 ## 📫 Connect with Me  
 - 🌐 Portfolio: [yourwebsite.com](#)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/dinod-deshanjana]  
 - 📧 Email: your@email.com  
 
 ---
