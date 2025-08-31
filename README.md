@@ -35,7 +35,6 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinodDeshanjana&show_icons=true&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinodDeshanjana&layout=compact&theme=radical)  
 
 ---
