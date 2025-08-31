@@ -36,7 +36,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinodDeshanjana&show_icons=true&bg_color=ff4500,ffa500&title_color=#3D89FF&text_color=#303030)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinodDeshanjana&layout=compact&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinodDeshanjana&layout=compact&theme=radical&bg_color=ff4500,ffa500&title_color=3D89FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinodDeshanjana&layout=compact&theme=radical&text_color=303030&bg_color=ff4500,ffa500&title_color=3D89FF)
 
 ---
 
