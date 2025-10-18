@@ -42,7 +42,7 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 ## 📫 Connect with Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dinod-deshanjana  
-- 📧 Email: your@email.com  
+- 🔗 Youtube: https://youtube.com/@dinoddeshanjana?si=u1uuS3yV9_Vg7qQK
 
 ---
 
