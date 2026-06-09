@@ -26,12 +26,6 @@ I'm passionate about technology, coding, and building innovative projects.  </h3
 
 ---
 
-## 📌 Featured Projects  
-- 🚖 [Tuk-Tuk Booking System](https://github.com/DinodDeshanjana/Three-Wheeler-Rental-System-project.git) – Online system for vehicle reservations
-- 🍕 [Pizza-Checkout-Application](https://github.com/DinodDeshanjana/Pizza-Checkout-Application.git) - Pizza Checkout Application
-- 📊 [GPA-Calculator](https://github.com/DinodDeshanjana/GPA-Calculator.git) - GPA Calculator Application
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinodDeshanjana&show_icons=true&bg_color=ff4500,ffa500&title_color=#3D89FF&text_color=#303030)
