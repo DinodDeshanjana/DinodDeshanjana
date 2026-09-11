@@ -1,160 +1,193 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Dinod%20Deshanjana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20QA%20Intern%20%7C%20Test%20Automation%20%7C%20QA%20Workflow%20Automation&descAlignY=55&descSize=17" />
+</div>
 
-# Hi, I'm Dinod Deshanjana 👋
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=2E7D32&center=true&vCenter=true&width=650&lines=Manual+%26+Automated+QA+Testing;Playwright+%2B+GitHub+Actions+CI%2FCD;n8n+%2B+Gemini+Powered+Bug+Reporting;Always+learning.+Always+testing." alt="Typing SVG" />
+  </a>
+</div>
 
-### Software QA Intern | Test Automation | QA Workflow Automation
+<br/>
 
-I'm a Software QA Intern at IdeaZone (Pvt) Ltd. and a final-year B.Sc. Management & Information Technology undergraduate at South Eastern University of Sri Lanka.
+<div align="center">
 
-I am interested in software quality assurance, test automation, and improving software testing workflows through automation.
+<a href="https://www.linkedin.com/in/dinod-deshanjana/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://dinod-deshanjana-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-16213e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/DinodDeshanjana">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Currently, I am developing my skills in Playwright, API testing, CI/CD, and workflow automation using n8n.
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20QA%20%26%20Test%20Automation%20Roles-Available-2E7D32?style=flat-square&labelColor=1a1a2e" />
+
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 &nbsp;About Me
 
-- 💼 Software QA Intern at IdeaZone (Pvt) Ltd.
-- 🎓 Final-year B.Sc. Management & Information Technology undergraduate
-- 🧪 Interested in Manual Testing and Test Automation
-- 🤖 Building QA automation workflows using Playwright and n8n
-- 🔍 Learning API Testing, CI/CD, and automated bug reporting
-- 📍 Sri Lanka
+Software QA Intern at **IdeaZone (Pvt) Ltd.**, final-year **B.Sc. (Hons) Management & Information Technology** undergraduate at South Eastern University of Sri Lanka, and holder of a **Diploma in IT (Distinction)** from Wayamba University.
+
+I focus on making test coverage and bug reporting less manual — combining **Playwright**, **GitHub Actions**, and **n8n** into pipelines that catch issues and report them without a human in the loop.
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧪 Core Focus</b><br/><br/>
+      Manual &amp; automated QA · Test case design · Regression testing · Exploratory testing · Bug reporting
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 Automation Stack</b><br/><br/>
+      Playwright · GitHub Actions · n8n · Google Gemini · Selenium + TestNG
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📡 Currently Learning</b><br/><br/>
+      API testing · CI/CD pipelines · Performance testing with JMeter
+    </td>
+    <td width="50%" valign="top">
+      <b>🎓 Education</b><br/><br/>
+      B.Sc. MIT (Final Year) — SEUSL<br/>
+      Diploma in IT (Distinction) — Wayamba University
+    </td>
+  </tr>
+</table>
 
 ---
 
+## ⭐ &nbsp;Featured Project
 
-## 🚀 Featured Project
+<div align="center">
 
-### 🥇 n8n Playwright Bug Automation
+### AI-Powered QA Automation &amp; Bug Reporting Pipeline
 
-**Automated Bug Reporting Workflow for Playwright Test Results**
+</div>
 
-A QA automation mini-project that connects Playwright test execution with n8n to process failed test results and generate structured bug records.
+An end-to-end system that runs **Playwright** tests via **GitHub Actions**, routes failures through an **n8n** workflow, uses **Google Gemini** to analyze them, and logs structured bug records straight into **Jira** and **Google Sheets** — cutting manual triage out of the loop entirely.
 
-This project demonstrates how test automation and workflow automation can work together to improve the bug reporting process.
-
-#### 🔧 Key Features
-
-- Automated browser testing using Playwright
-- Capturing failed test results
-- Sending test results to an n8n webhook
-- Processing test data through an automation workflow
-- Generating structured bug records
-- GitHub Actions integration for test execution
-
-#### 🛠️ Technologies Used
-
-- Playwright
-- JavaScript
-- n8n
-- GitHub Actions
-- Webhooks
-- JSON
-
-#### 🔄 Workflow
+<div align="center">
 
 ```text
-Playwright Test Execution
-        ↓
-Test Result Processing
-        ↓
-Send Results to n8n Webhook
-        ↓
-n8n Workflow
-        ↓
-Process Failed Test Data
-        ↓
-Generate Bug Record
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────────┐
+│  Playwright  │───▶│ n8n Webhook  │───▶│    Gemini    │───▶│ Jira + Sheets Log│
+│ GH Actions   │    │   Router     │    │   Analysis   │    │                  │
+└──────────────┘    └──────────────┘    └──────────────┘    └──────────────────┘
 ```
 
-#### 📌 Project Highlights
+<br/>
 
-- Connected Playwright automation with n8n
-- Created a webhook-based workflow
-- Automated test result processing
-- Explored automated QA bug reporting
-- Practiced integrating testing tools with workflow automation
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 
-#### 🎥 Project Demo
+<br/><br/>
 
-[![Watch Project Demo](https://img.youtube.com/vi/bGE3h8cv03E/maxresdefault.jpg)](https://youtu.be/bGE3h8cv03E)
+<a href="https://youtu.be/bGE3h8cv03E">
+  <img src="https://img.shields.io/badge/▶%20%20Watch%20the%20Demo-1a1a2e?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-▶ [Watch n8n Playwright Bug Automation Demo on YouTube](https://youtu.be/bGE3h8cv03E)
-
----
-## 📂 Other QA Projects
-
-### 🔹 E-License QA Automation
-
-A Playwright-based test automation project for testing an e-license application.
-
-**Tech Stack:** Playwright, JavaScript, GitHub Actions
-
-[View Repository](https://github.com/DinodDeshanjana/e-license-qa-automation)
+</div>
 
 ---
 
-### 🔹 Admin Panel Test Automation
+## 🗂️ &nbsp;Other Projects
 
-A QA automation project developed during my software QA internship.
+<details>
+<summary>&nbsp;<b>🔹 E-License QA Automation</b> &nbsp;—&nbsp; <i>Playwright suite for an e-license management system</i></summary>
 
-**Tech Stack:** Playwright, JavaScript, GitHub Actions
+<br/>
 
-[View Repository](https://github.com/DinodDeshanjana/automation-admin-panel)
+Full regression suite with GitHub Actions CI/CD for automated test runs on every push.
 
----
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
-## 🛠️ Skills & Tools
+<br/><br/>
 
-### Software Testing
+**[View Repository →](https://github.com/DinodDeshanjana/e-license-qa-automation)**
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E7D32?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-2E7D32?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-2E7D32?style=flat-square)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-2E7D32?style=flat-square)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-2E7D32?style=flat-square)
+</details>
 
-### Automation & Workflow
+<details>
+<summary>&nbsp;<b>🔹 Admin Panel Test Automation</b> &nbsp;—&nbsp; <i>Page Object Model framework built at IdeaZone</i></summary>
 
-![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=flat-square&logo=playwright&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+<br/>
 
-### API & Tools
+Structured Playwright automation using the Page Object Model, built during my QA internship.
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-6E56CF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
----
+<br/><br/>
 
-## 📚 Currently Learning
+**[View Repository →](https://github.com/DinodDeshanjana/automation-admin-panel)**
 
-- Advanced Playwright Automation
-- API Test Automation
-- CI/CD for QA
-- n8n Workflow Automation
-- AI-assisted Software Testing
-- Performance Testing with JMeter
+</details>
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ &nbsp;Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dinod-deshanjana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DinodDeshanjana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,php,mysql,git,github,githubactions,selenium,postman,vscode&perline=10" />
+
+</div>
+
+<br/>
+
+|  | Tools |
+|---|---|
+| 🧪 **Testing** | Manual Testing · Test Case Design · Regression Testing · Exploratory Testing · Bug Reporting |
+| ⚙️ **Automation** | Playwright · Selenium · TestNG · GitHub Actions · n8n Workflows |
+| 🔌 **API &amp; Backend** | Postman · Bruno · PHP · MySQL · Jira · Git &amp; GitHub |
+| 💻 **Languages** | Java · JavaScript |
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 &nbsp;GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DinodDeshanjana&show_icons=true&hide_border=true&theme=transparent&title_color=16213e&icon_color=2E7D32&text_color=333333&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinodDeshanjana&layout=compact&hide_border=true&theme=transparent&title_color=16213e&text_color=333333&langs_count=8" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DinodDeshanjana&hide_border=true&theme=transparent&stroke=16213e&ring=2E7D32&fire=2E7D32&currStreakLabel=16213e&sideLabels=16213e&dates=666666" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+**Open to QA &amp; test automation opportunities — always happy to talk testing, tooling, or CI/CD.**
+
+<a href="https://www.linkedin.com/in/dinod-deshanjana/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
